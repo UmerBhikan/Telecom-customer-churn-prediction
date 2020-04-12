@@ -5,7 +5,7 @@ Model which can predicts in terms of a probability for each loan transaction, wh
 
 1) Importing necessary libraries and reading the data file.
 
-2) Exploratory Data Analysis and Data preprocessing.
+2) Exploratory Data Analysis and Data preprocessing\n
  Looking for missing values.
  Dropping out unrequired variables. ("Unnamed: 0", "msidn", "pcircle", "pdate").
  Scaling the data using Normalizer().
